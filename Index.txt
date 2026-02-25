@@ -6,7 +6,6 @@ form eklavya university
 damoh
 shivam 
 athya
-<<<<<<< HEAD
-=======
 mobail no 9039502082
->>>>>>> shivam
+
+I am in my 3rd year
